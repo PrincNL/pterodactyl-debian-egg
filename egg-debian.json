@@ -6,7 +6,7 @@
     },
     "exported_at": "2021-12-04T08:15:30-05:00",
     "name": "Debian Proot",
-    "author": "pterodactylmarket@kitten.systems",
+    "author": "Princ",
     "description": "Debian Proot. Source based off https:\/\/github.com\/afnan007a\/Ptero-vm",
     "features": null,
     "images": [
